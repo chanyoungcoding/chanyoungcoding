@@ -3,6 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:ED99B4,100:9AD9ED&height=300&section=header&text=Chan&fontSize=60&"/>	
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/chanyoungcoding?pet-id=645079127564474661"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <div align="center">
   <h1>나의 기술들</h1>
   <p>프론트</p>
